@@ -1,0 +1,6 @@
+D:\Nazirkhon\Semestr-2-C-Sharp\Первые Шаги Чать 1\Первые Шаги Чать 1\bin\Debug\Первые Шаги Чать 1.exe.config
+D:\Nazirkhon\Semestr-2-C-Sharp\Первые Шаги Чать 1\Первые Шаги Чать 1\bin\Debug\Первые Шаги Чать 1.exe
+D:\Nazirkhon\Semestr-2-C-Sharp\Первые Шаги Чать 1\Первые Шаги Чать 1\bin\Debug\Первые Шаги Чать 1.pdb
+D:\Nazirkhon\Semestr-2-C-Sharp\Первые Шаги Чать 1\Первые Шаги Чать 1\obj\Debug\Первые Шаги Чать 1.csprojResolveAssemblyReference.cache
+D:\Nazirkhon\Semestr-2-C-Sharp\Первые Шаги Чать 1\Первые Шаги Чать 1\obj\Debug\Первые Шаги Чать 1.exe
+D:\Nazirkhon\Semestr-2-C-Sharp\Первые Шаги Чать 1\Первые Шаги Чать 1\obj\Debug\Первые Шаги Чать 1.pdb
