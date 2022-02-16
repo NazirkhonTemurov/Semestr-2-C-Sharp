@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*******************************
+*Название: Возведение в Степень*
+*Дата:     10.02.2022          *
+*Автор:    Темуров Назирхон    *
+********************************/
+using System;
 
 namespace Первые_Шаги_Чать_1
 {
@@ -13,8 +18,14 @@ namespace Первые_Шаги_Чать_1
             Console.Write("В какую Степень поднять:");
             int Stepen = Convert.ToInt32(Console.ReadLine());
 
-            
-            
+            int Result = 1;
+
+            for (int Step = 1; Step <= Stepen; ++Step )
+            {
+                Result *= Number; 
+            }
+
+            Console.WriteLine("Ответ:" + Result);
             
             Console.ReadKey();
         }
